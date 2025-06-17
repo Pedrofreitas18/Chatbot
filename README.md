@@ -1,2 +1,2 @@
 # Chatbot
-Chatbot with AI
+Chatbot with AI -> Ollama + Django
